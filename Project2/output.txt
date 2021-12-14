@@ -1,0 +1,66 @@
+breast_cancer
+Original data representation: 7.69 %
+K = 10:
+New representation error: 46.15 %
+K = 100:
+New representation error: 15.38 %
+K = 1000:
+New representation error: 5.77 %
+K = 10000:
+New representation error: 7.69 %
+
+
+climate_simulation
+Original data representation: 2.04 %
+K = 10:
+New representation error: 8.16 %
+K = 100:
+New representation error: 6.12 %
+K = 1000:
+New representation error: 4.08 %
+K = 10000:
+New representation error: 4.08 %
+
+hill_valley
+Original data representation: 0.0 %
+K = 10:
+New representation error: 58.18 %
+K = 100:
+New representation error: 56.36 %
+K = 1000:
+New representation error: 54.55 %
+K = 10000:
+New representation error: 25.45 %
+
+ionosphere
+Original data representation: 9.38 %
+K = 10:
+New representation error: 28.12 %
+K = 100:
+New representation error: 15.62 %
+K = 1000:
+New representation error: 12.5 %
+K = 10000:
+New representation error: 9.38 %
+
+micromass
+Original data representation: 7.14 %
+K = 10:
+New representation error: 39.29 %
+K = 100:
+New representation error: 26.19 %
+K = 1000:
+New representation error: 7.14 %
+K = 10000:
+New representation error: 2.38 %
+
+qsar_biodeg
+Original data representation: 14.74 %
+K = 10:
+New representation error: 37.89 %
+K = 100:
+New representation error: 36.84 %
+K = 1000:
+New representation error: 22.11 %
+K = 10000:
+New representation error: 20.0 %

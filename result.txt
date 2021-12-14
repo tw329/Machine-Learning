@@ -1,0 +1,9 @@
+Original data representation:12.5 %
+K =10
+New representation error:21.88 %
+K =100
+New representation error:15.62 %
+K =1000
+New representation error:12.5 %
+K =10000
+New representation error:3.12 %
